@@ -1,19 +1,20 @@
 {
-    "name": "Anna Quincey",
-    "occupation": "Front-End Developer",
-    "location": "Vienna, AT",
+    "name": "Chris Hooper",
+    "occupation": "Acoustic Consultant",
+    "location": "Shrewsbury, UK",
     "avatar": "avatar.jpg",
-    "pronouns": "she/her",
-    "email": "anna.quincey@gmail.com",
-    "telephone": "+01 23 456 789",
-    "website": "https://annaquincey.dev",
+    "pronouns": "",
+    "email": "chris.hooper78@outlook.com",
+    "telephone": "+44 7950971529",
+    "website": "",
     "skills": [
-        "HTML",
-        "CSS",
-        "Javascript / ES6",
-        "UI Design",
-        "React",
-        "Git"
+        "Theory of Acoustics",
+        "Surveys and Testing",
+        "Modelling and Prediction",
+        "Noise Control Engineering",
+        "Project Management",
+        "Team Management",
+        "Written and Verbal Communication"
     ],
     "languages": [
         {
@@ -21,24 +22,23 @@
             "level": "native"
         },
         {
-            "name": "German",
-            "level": "fluent"
+            "name": "French",
+            "level": "intermediate"
         },
         {
-            "name": "French",
-            "level": "basic"
+            "name": "Italian",
+            "level": "beginner"
+        },
+        {
+            "name": "Spanish",
+            "level": "beginner"
         }
     ],
     "social": [
         {
-            "name": "Github",
-            "user": "@annaquincey",
-            "url": "https://github.com/annaquincey"
-        },
-        {
             "name": "LinkedIn",
-            "user": "AnnaQncy",
-            "url": "https://www.linkedin.com/in/annaquincey"
+            "user": "christopher-hooper",
+            "url": "https://www.linkedin.com/in/christopher-hooper"
         }
     ]
 }
