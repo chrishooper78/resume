@@ -3,4 +3,4 @@ layout: resume
 permalink: index.html
 ---
 
-I am an acoustic consultant with over 15 years of experience in the prediction, monitoring and assessment of environmental noise and vibration.
+I am an experienced environmental professional looking to transition my career into a project development role in the renewable energy sector. With 15 years of professional experience in delivering projects through the UK planning system within, I bring a extensive portfolio of technical and soft skills.
