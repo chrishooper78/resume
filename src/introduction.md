@@ -3,4 +3,4 @@ layout: resume
 permalink: index.html
 ---
 
-I am a web developer with over 12 years of experience in the front-end and a special background in digital design. My focus is on creating engaging, accessible & performant interfaces for humans. I am currently looking for new challenges.
+I am an acoustic consultant with over 15 years of experience in the prediction, monitoring and assessment of environmental noise and vibration.
