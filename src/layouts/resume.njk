@@ -42,7 +42,7 @@ layout: base
             <h2 class="section__title">Qualifications</h2>
             <ul class="bulletlist">
             {% for qualification in author.qualifications %}
-                <li class="p-skill">{{ qualification.name }} ({{ qualification.level }})</li>
+                <li class="p-qualification">{{ qualification }}</li>
             {% endfor %}
             </ul>
         </section>
