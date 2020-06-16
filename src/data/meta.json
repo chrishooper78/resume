@@ -1,9 +1,9 @@
 {
-    "url": "https://demo-resume.netlify.app",
+    "url": "https://acoustics.chrishooper.uk",
     "lang": "en",
-    "locale": "en_us",
+    "locale": "en_uk",
     "colors": {
-        "primary": "#005b96",
+        "primary": "#008080",
         "secondary": "#fc6767"
     }
 }
