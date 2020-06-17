@@ -18,6 +18,8 @@ body {
     }
     .sidebar {
         grid-area: sidebar;
+        background-image: url("../../assets/images/Wind-turbines.jpg");
+        background-attachment: fixed;
         background-color: $primary-color;
         background-color: var(--primary-color, $primary-color);
     }
